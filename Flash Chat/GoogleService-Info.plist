@@ -3,25 +3,25 @@
 <plist version="1.0">
 <dict>
 	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
-	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<string></string>
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
-	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<string></string>
 	<key>CLIENT_ID</key>
-	<string>156922885723-4c2ppl12kmc5lactff2dkm70peo3chol.apps.googleusercontent.com</string>
+	<string></string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.156922885723-4c2ppl12kmc5lactff2dkm70peo3chol</string>
+	<string></string>
 	<key>API_KEY</key>
-	<string>AIzaSyCW-XGSSh5HUBQQXTVEZF3-jv3BEsXaQpI</string>
+	<string></string>
 	<key>GCM_SENDER_ID</key>
-	<string>156922885723</string>
+	<string></string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.kiransabne.Flash-Chat</string>
+	<string></string>
 	<key>PROJECT_ID</key>
-	<string>ios-chat-app-74c54</string>
+	<string></string>
 	<key>STORAGE_BUCKET</key>
-	<string>ios-chat-app-74c54.appspot.com</string>
+	<string></string>
 	<key>IS_ADS_ENABLED</key>
 	<true></true>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -33,8 +33,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:156922885723:ios:62d092db97b44c3a</string>
+	<string></string>
 	<key>DATABASE_URL</key>
-	<string>https://ios-chat-app-74c54.firebaseio.com</string>
+	<string></string>
 </dict>
 </plist>
