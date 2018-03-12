@@ -1,4 +1,4 @@
-# Flash-Chat
+# Club-Chat
 
 This iOS App is built with Swift and Firebase as backend. This is a realtime Chat app.
 
